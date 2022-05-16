@@ -1,1 +1,1 @@
-git commit -m 'Message'
+git pull
