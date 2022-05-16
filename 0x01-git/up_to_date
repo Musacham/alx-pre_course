@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 How to be up to date in git
+=======
+git add .
+git commit -m "How to be up to date in git"
+git push
+>>>>>>> e5abd289fd0f97aa5b60eec5e79b9ccad20aa34c
